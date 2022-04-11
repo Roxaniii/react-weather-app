@@ -1,0 +1,31 @@
+.Weather h1 {
+  font-size: 24 px;
+  font-weight: 100;
+  margin: 20px auto;
+  line-height: 29px;
+  font-family: arial, sans-serif;
+  color: #878787;
+  margin-top: 25px;
+}
+.Weather li {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+  list-style: none;
+  font-family: arial, sans-serif;
+  color: #878787;
+}
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+.Weather img {
+  height: 70px;
+}
+.Weather form {
+  margin-top: 20px;
+}
+.Weather .temperature {
+  font-weight: bold;
+  font-size: 64px;
+}
