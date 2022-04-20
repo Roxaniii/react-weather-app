@@ -5,11 +5,19 @@ export default function Footer() {
     <p>
       This page was coded by{" "}
       <a
-        href="https://github.com/Roxaniii?tab=repositories"
+        href="https://lucid-cori-eefdf9.netlify.app/"
         target="_blank"
         rel="noreferrer"
       >
-        Roxane Kulenkamp
+        Roxane Kulenkamp.
+      </a>
+      Check out my{" "}
+      <a
+        href="https://github.com/Roxaniii?tab=repositories"
+        target="blank"
+        rel="noreferrer"
+      >
+        GitHub
       </a>
     </p>
   );
